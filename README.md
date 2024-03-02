@@ -45,7 +45,7 @@ Edit the variables chatId and text:
 public static void main(String[] args) {
 
 	String chatId = "to complete";
-	String text = “to complete";
+	String text = "to complete";
 ```
 
 Run Main.java
